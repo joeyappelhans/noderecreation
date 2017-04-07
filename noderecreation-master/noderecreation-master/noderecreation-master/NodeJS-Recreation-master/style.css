@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+    height: 1000px;
+    width: 1300px;
+}
+
+header{
+    height:200px;
+    width: inherit;
+    background-color: black;
+}
+
+section{
+    height: 500px;
+    width:inherit;
+}
+#header img{
+    width: 100px;
+    height:100px;
+}
+#first img{
+    width: 100%;
+    height:auto;
+}
+#second{
+    height:400px;
+    width:100%;
+}
+#nav{
+    background-color:white;
+}
+footer{
+    background-color: black;
+    height: 100px;
+    width:100%;
+}
